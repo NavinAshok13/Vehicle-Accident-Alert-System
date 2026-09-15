@@ -33,6 +33,14 @@ An automated vehicle accident detection system that detects major impacts, ident
 5. Upload the accident-alert code to the ESP8266.
 6. Test the system by simulating an accident/impact.
 
+### Libraries 
+
+ESP8266WiFi
+SoftwareSerial
+TinyGPS++
+Wire
+LiquidCrystal_I2C
+
 <img width="1280" height="720" alt="accident-alert-wiring" src="https://github.com/user-attachments/assets/a6c98db6-9a82-47c2-9f37-026b2ab35e4c" />
 
 
